@@ -1,0 +1,11 @@
+POST /abc/def.htm HTTP/1.1
+
+Connection: Keep-Alive
+Date: 1/01/2014 23:59
+Transfer-Encoding: gzip
+Accept-Charset: ISO-8859-1
+Referer: http://127.0.0.1/something.php
+User-Agent: Mozilla/4.0
+Content-Length: 302
+Expires: 24/09/2017 00:00
+
