@@ -15,7 +15,7 @@ make
 ```
 
 
-Co-Workers
-----------
+Collaborators
+-------------
 * Anastasia Boile
 * Andreas Papandreou
